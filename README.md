@@ -1,6 +1,6 @@
 # Single-View Background 3D Reconstruction of Cityscapes
 
-## *In-Progress Repo*
+<h2 style="text-align:center"><em>-- In-Progress Repo --</em></h2>
 
 ## Why this project?
 
