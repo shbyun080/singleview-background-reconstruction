@@ -24,6 +24,7 @@ references.[^1]
 - [Preliminary Works](#preliminary-works)
 - [Installation](#installation)
 - [Execution](#execution)
+- [Method](#method)
 
 ## Preliminary Works
 
@@ -31,4 +32,10 @@ references.[^1]
 
 ## Execution
 
-[^1]: NeRS [supporting link](https://arxiv.org/abs/2110.07604).
+## Method
+### Semantic Segmentation
+### NeRS Reconstruction
+### AR-Based 3D Reconstruction
+### R<sup>2</sup>&#8594;R<sup>3</sup> Positioning
+
+[^1]: [NeRS](https://arxiv.org/abs/2110.07604).
