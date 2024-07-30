@@ -28,7 +28,7 @@ methods.
 TBD
 
 ## Method
-### Primary-Primitive Extraction (Segment Anything)
+### Primary-Primitive Extraction (Segment Anything 2)
 ### Primitive Depth Extraction (UniDepth)
 ### Monocular Primitive Positioning (novel)
 ### Primitive Grounding (novel)
